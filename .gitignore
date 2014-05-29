@@ -15,3 +15,6 @@ hs_err_pid*
 # FOR C/C++
 *.exe
 *.out
+
+# FOR AUXILIARY FILE(S)
+Makefile
